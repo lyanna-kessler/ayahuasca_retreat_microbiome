@@ -1,0 +1,38 @@
+id	Timepoint	Subject_Num	DateReceived	Sex	Ethnicity	Retreat_Location	Retreat_Region	Retreat_Country	pielou_evenness
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical	categorical	numeric
+13-T1	1	13	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.825382607163369
+13-T2	2	13	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.794619713197983
+14-T1	1	14	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.809906347247744
+14-T2	2	14	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.764099701944518
+15-T1	1	15	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.747356174354152
+15-T2	2	15	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.711215360404735
+16-T1	1	16	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.771228841987364
+16-T2	2	16	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.81441183615464
+17-T1	1	17	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.785619314081933
+17-T2	2	17	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.782620322051684
+18-T1	1	18	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.803734285708843
+18-T2	2	18	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.851097929081085
+19-T1	1	19	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.703818673405351
+19-T2	2	19	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.790031459382132
+21-T1	1	21	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.738915185524792
+21-T2	2	21	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.761662285146197
+23-T1	1	23	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.775141065874352
+23-T2	2	23	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.779234013973843
+24-T1	1	24	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.857756604397924
+24-T2	2	24	21-Jul	Male	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.80717630134658
+25-T1	1	25	21-Jul	Female	Asian	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.757970522536103
+25-T2	2	25	21-Jul	Female	Asian	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.762837097423681
+26-T1	1	26	21-Jul	Female	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.824686361826818
+26-T2	2	26	21-Jul	Female	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.851043893141226
+28-T1	1	28	21-Jul	Female	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.799262006794783
+28-T2	2	28	21-Jul	Female	Caucasian, not Hispanic	Soltara Healing Center	Gulf of Nicoya	Costa Rica	0.797046280588633
+5119-1	1	5119	20-Dec	Female	Caucasian, Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.759280081796517
+5119-2	2	5119	20-Dec	Female	Caucasian, Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.743367880566755
+5319-1	1	5319	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.82209185415339
+5319-2	2	5319	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.761790996933267
+5419-1	1	5419	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.771814881245857
+5419-2	2	5419	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.739875112532812
+5519-1	1	5519	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.801327105269675
+5519-2	2	5519	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.800861693907998
+5719-1	1	5719	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.8101295188638
+5719-2	2	5719	20-Dec	Male	Caucasian, not Hispanic	La Medicina	Cordilliera Escalera mountain range	Peru	0.830426362261643

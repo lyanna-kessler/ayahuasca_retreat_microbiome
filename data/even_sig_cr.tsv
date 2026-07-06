@@ -1,0 +1,28 @@
+id	Timepoint	Subject_Num	Sex	Ethnicity	pielou_evenness
+#q2:types	categorical	categorical	categorical	categorical	numeric
+13-T1	1	13	Male	Caucasian, not Hispanic	0.826102633717893
+13-T2	2	13	Male	Caucasian, not Hispanic	0.792658951957804
+14-T1	1	14	Male	Caucasian, not Hispanic	0.809831822616493
+14-T2	2	14	Male	Caucasian, not Hispanic	0.76352441835976
+15-T1	1	15	Male	Caucasian, not Hispanic	0.745961145591325
+15-T2	2	15	Male	Caucasian, not Hispanic	0.710840511810246
+16-T1	1	16	Male	Caucasian, not Hispanic	0.770927968748702
+16-T2	2	16	Male	Caucasian, not Hispanic	0.812932705317063
+17-T1	1	17	Male	Caucasian, not Hispanic	0.784000802228688
+17-T2	2	17	Male	Caucasian, not Hispanic	0.781984314866933
+18-T1	1	18	Male	Caucasian, not Hispanic	0.80365398922841
+18-T2	2	18	Male	Caucasian, not Hispanic	0.85108840720503
+19-T1	1	19	Male	Caucasian, not Hispanic	0.705288338922851
+19-T2	2	19	Male	Caucasian, not Hispanic	0.788965269193456
+21-T1	1	21	Male	Caucasian, not Hispanic	0.737801320021064
+21-T2	2	21	Male	Caucasian, not Hispanic	0.760682835645834
+23-T1	1	23	Male	Caucasian, not Hispanic	0.771038081233678
+23-T2	2	23	Male	Caucasian, not Hispanic	0.780543592975867
+24-T1	1	24	Male	Caucasian, not Hispanic	0.857327640918065
+24-T2	2	24	Male	Caucasian, not Hispanic	0.806797820497052
+25-T1	1	25	Female	Asian	0.756273741371785
+25-T2	2	25	Female	Asian	0.763467136906784
+26-T1	1	26	Female	Caucasian, not Hispanic	0.825022810095114
+26-T2	2	26	Female	Caucasian, not Hispanic	0.850424662826001
+28-T1	1	28	Female	Caucasian, not Hispanic	0.799315728274438
+28-T2	2	28	Female	Caucasian, not Hispanic	0.797389652493866
